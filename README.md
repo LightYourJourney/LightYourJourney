@@ -1,7 +1,5 @@
-## Hi there 👋
-
 <!--
-**LightYourJourney/LightYourJourney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**L6y6j6/L6y6j6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center">Hi there, this is LYJ speaking!</h1>
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=LightYourJourney)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LightYourJourney)](https://git.io/streak-stats)

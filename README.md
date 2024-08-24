@@ -24,19 +24,3 @@ Here are some ideas to get you started:
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=LightYourJourney&show_icons=true&include_all_commits=true&hide_border=true" alt="LightYourJourney' github stats" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LightYourJourney&hide_border=true" />                                                   |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LightYourJourney&layout=compact&hide_border=true" />                                                     | <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=yanjinli502&layout=compact&custom_title=Week%20Coding%20Time&hide_border=true" /> |
-
-```
-$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$'               `$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
-$$$$$$$$$$$$$$$$$$$$$$$$$$$$'                   `$$$$$$$$$$$$$$$$$$$$$$$$$$$$
-$$$'`$$$$$$$$$$$$$'`$$$$$$!                       !$$$$$$'`$$$$$$$$$$$$$'`$$$
-$$$$  $$$$$$$$$$$  $$$$$$$                         $$$$$$$  $$$$$$$$$$$  $$$$
-$$$$. `$' \' \$`  $$$$$$$!                         !$$$$$$$  '$/ `/ `$' .$$$$
-$$$$$. !\  i  i .$$$$$$$$                           $$$$$$$$. i  i  /! .$$$$$
-$$$$$$   `--`--.$$$$$$$$$                           $$$$$$$$$.--'--'   $$$$$$
-$$$$$$L        `$$$$$^^$$                           $$^^$$$$$'        J$$$$$$
-$$$$$$$.   .'   ""~   $$$    $.                 .$  $$$   ~""   `.   .$$$$$$$
-$$$$$$$$.  ;      .e$$$$$!    $$.             .$$  !$$$$$e,      ;  .$$$$$$$$
-$$$$$$$$$   `.$$$$$$$$$$$$     $$$.         .$$$   $$$$$$$$$$$$.'   $$$$$$$$$
-$$$$$$$$    .$$$$$$$$$$$$$!     $$`$$$$$$$$'$$    !$$$$$$$$$$$$$.    $$$$$$$$
-$JT&yd$     $$$$$$$$$$$$$$$$.    $    $$    $   .$$$$$$$$$$$$$$$$     $by&TL$
-```
